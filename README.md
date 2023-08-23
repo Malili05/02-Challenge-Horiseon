@@ -22,3 +22,7 @@ Content provided by © 2023 Horiseon Social Solution Services, Inc.
 ## License
 
 Distributed under the MIT License
+
+## Screenshots
+![image](https://github.com/Malili05/02-Challenge-Horiseon/assets/141981157/91f77f75-185d-4120-8f08-66eff1bd984c)
+
