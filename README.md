@@ -22,3 +22,7 @@ Content provided by © 2023 Horiseon Social Solution Services, Inc.
 ## License
 
 Distributed under the MIT License
+
+## Screenshots
+![Image of webpage](Develop/assets/images/Screenshot 2023-08-23 131739.png?raw=true "Screenshot")
+Develop/assets/images/Screenshot 2023-08-23 131739.png
