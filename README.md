@@ -1,5 +1,6 @@
 # 02-Challenge-Horiseon
-
+Link to Page
+https://malili05.github.io/02-Challenge-Horiseon/
 ## Description
 
 This is a company webpage for an SEO company called HoriSEOn.
